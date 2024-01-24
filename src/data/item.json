@@ -1,26 +1,26 @@
 [
     {
         "id":1,
-        "name": "Book",
-        "price":10.99,
-        "imageUrl": "/imgs/book.avif"
+        "name": "Yoke The Milk Tea",
+        "price":20.00,
+        "imageUrl": "/imgs/yoke-the.jpg"
     },
     {
         "id":2,
-        "name":"Banana",
-        "price":1.05,
-        "imageUrl":"/imgs/banana.jpg"
+        "name":"Royal Myanmar Tea Mix",
+        "price":12.99,
+        "imageUrl":"/imgs/myanmar-tea-mix.webp"
     },
     {
         "id":3,
-        "name":"Computer",
-        "price":1199,
-        "imageUrl":"/imgs/computer.jpg"
+        "name":"Saw Mo Assorted Fried Beans",
+        "price":9.99,
+        "imageUrl":"/imgs/saw-mo.jpg"
     },
     {
         "id":4,
-        "name":"Car",
-        "price":46499,
-        "imageUrl":"/imgs/car.jpg"
+        "name":"Saw Mo Myanmar Pickled Tea Leaves (Laphet) for Tea Leaf Salad Dressing",
+        "price":14.99,
+        "imageUrl":"/imgs/tea-leaves.webp"
     }
 ]
